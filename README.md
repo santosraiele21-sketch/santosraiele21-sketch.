@@ -11,4 +11,4 @@
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
 
-# VELHA
+# VELHA.
